@@ -19,8 +19,8 @@
  [树莓派官网](https://www.raspberrypi.org)  
  [官网下载链接](https://www.raspberrypi.org/downloads/raspbian/)
 #### 下载烧录工具
-[WIn32DIsklmager](https://pan.baidu.com/s/12Gq_xQKLaxvxUzjFtdYU1g"百度网盘")(提取码：2g4w)
-![win32截屏]
+[WIn32DIsklmager](https://pan.baidu.com/s/12Gq_xQKLaxvxUzjFtdYU1g"百度网盘")(提取码：2g4w)    
+![win](https://github.com/liytgy/raspberry/blob/master/%E5%85%A5%E5%9D%911%E2%80%94%E2%80%94%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85/win32.PNG)
 #### 格式化SD卡
 #### 烧制系统
 ## 上电开机
