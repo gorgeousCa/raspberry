@@ -23,4 +23,4 @@
 ![win](https://github.com/liytgy/raspberry/blob/master/%E5%85%A5%E5%9D%911%E2%80%94%E2%80%94%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85/win32.PNG)
 #### 格式化SD卡
 #### 烧制系统
-## 上电开机
+## 上电开机  
